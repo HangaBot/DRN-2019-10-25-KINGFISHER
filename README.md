@@ -1,2 +1,2 @@
 # DRN-2019-10-25-KINGFISHER
-PCB Only RC multirotor
+PCB Only RC QuadCopter
