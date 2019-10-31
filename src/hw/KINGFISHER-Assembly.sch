@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:KINGFISHER-Assembly-cache
 EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
@@ -78,6 +79,17 @@ F 1 "MotherBoard" H 10640 3880 50  0000 L CNN
 F 2 "" H 9950 3950 50  0001 C CNN
 F 3 "" H 9950 3950 50  0001 C CNN
 	1    9950 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Assembly_Library:TopCover U?
+U 1 1 5DBAF330
+P 10050 5300
+F 0 "U?" H 10578 5321 50  0000 L CNN
+F 1 "TopCover" H 10578 5230 50  0000 L CNN
+F 2 "" H 10050 5300 50  0001 C CNN
+F 3 "" H 10050 5300 50  0001 C CNN
+	1    10050 5300
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
