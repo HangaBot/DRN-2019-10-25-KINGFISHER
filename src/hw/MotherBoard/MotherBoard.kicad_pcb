@@ -1,8 +1,8 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.0.2-bee76a0~70~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew "(5.0.2)-1")
 
   (general
     (thickness 1.6)
-    (drawings 2)
+    (drawings 0)
     (tracks 0)
     (zones 0)
     (modules 35)
@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFF7F)
+    (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -1634,8 +1634,5 @@
       (rotate (xyz 0 0 0))
     )
   )
-
-  (gr_poly (pts (xy 71.882 58.42) (xy 71.882 60.198) (xy 74.168 60.198) (xy 74.168 58.42)) (layer F.SilkS) (width 0.15))
-  (gr_poly (pts (xy 20.32 54.61) (xy 36.83 29.21) (xy 62.23 57.15) (xy 39.37 86.36)) (layer F.SilkS) (width 0.15))
 
 )
